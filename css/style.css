@@ -13,8 +13,12 @@
 
 h1, h2, h3, h4, h5 {
   font-family: 'PetitaLight', sans-serif;
-  font-style: normal;
   color : #812764;
+}
+
+button,
+a#contact-button {
+  font-family: 'PetitaLight', sans-serif;ß
 }
 
 h1, #index-banner h5 {
